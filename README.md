@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Recipe Haven - React Recipe Application
 
 ![Recipe Haven Logo](public/vite.svg)
